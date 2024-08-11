@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtsemiLasyi.PetsApp", "ArtsemiLasyi.PetsApp\Artsemilasyi.PetsApp.csproj", "{BA571733-B824-46C3-8821-BE76D8058DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtsemiLasyi.PetsApp.DataAccess", "ArtsemiLasyi.PetsApp.DataAccess\Artsemilasyi.PetsApp.DataAccess.csproj", "{6BA84CF1-6D74-4F1E-9EB8-12F7214E1E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA571733-B824-46C3-8821-BE76D8058DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA571733-B824-46C3-8821-BE76D8058DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA571733-B824-46C3-8821-BE76D8058DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA571733-B824-46C3-8821-BE76D8058DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA84CF1-6D74-4F1E-9EB8-12F7214E1E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA84CF1-6D74-4F1E-9EB8-12F7214E1E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA84CF1-6D74-4F1E-9EB8-12F7214E1E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA84CF1-6D74-4F1E-9EB8-12F7214E1E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B424C8-6EAF-402D-AE85-1F8146B2B3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B424C8-6EAF-402D-AE85-1F8146B2B3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B424C8-6EAF-402D-AE85-1F8146B2B3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B424C8-6EAF-402D-AE85-1F8146B2B3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
