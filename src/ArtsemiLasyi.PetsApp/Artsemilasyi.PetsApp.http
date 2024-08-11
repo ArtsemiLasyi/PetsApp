@@ -1,0 +1,6 @@
+@ArtsemiLasyi.PetsApp_HostAddress = http://localhost:5113
+
+GET {{ArtsemiLasyi.PetsApp_HostAddress}}/*/
+Accept: application/json
+
+###
